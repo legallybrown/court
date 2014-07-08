@@ -23,6 +23,8 @@ gem 'jquery-rails'
 
 gem 'nokogiri'
 
+gem 'thin'
+
 gem 'devise'
 
 gem 'feedjira'
